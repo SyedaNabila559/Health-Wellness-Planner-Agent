@@ -181,7 +181,7 @@ python main.py
 
 # (Optional) Run Streamlit dashboard:
 
-streamlit run uv_app.py
+streamlit run streamlit_app.py
 
 ✨ Made with ❤️ by **Syeda**  
 💻🚴‍♀️🍎 Building healthy habits, one line of code at a time.
